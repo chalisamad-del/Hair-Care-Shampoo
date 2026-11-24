@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "name": "น้ำหอมฉีดตัว Fresh เล็ก",
+    "name": "Hair Care Shampoo – Citrus Splash (เล็ก)",
     "mood": "fresh",
-    "type": "spray",
+    "type": "shampoo",
     "size": "30ml",
     "price": 79,
-    "image": "images/fresh.jpg",
-    "description": "กลิ่นสดชื่นสะอาด เหมาะพกพาติดกระเป๋า เติมความหอมได้ทุกช่วงของวัน"
+    "image": "images/citrus-splash.jpg",
+    "description": "แชมพูสูตรขจัดความมันส่วนเกินที่มาพร้อมกลิ่นซิตรัสสดชื่น ขนาดพกพาสะดวก"
   },
   {
     "id": 2,
-    "name": "น้ำหอมฉีดตัว Fresh ใหญ่",
+    "name": "Hair Care Shampoo – Citrus Splash (ใหญ่)",
     "mood": "fresh",
-    "type": "spray",
+    "type": "shampoo",
     "size": "100ml",
     "price": 189,
-    "image": "images/fresh.jpg",
-    "description": "กลิ่นสดชื่นสะอาด ขนาดคุ้มค่าสำหรับใช้ประจำทุกวัน"
+    "image": "images/citrus-splash.jpg",
+    "description": "แชมพูสูตรขจัดความมันส่วนเกินที่มาพร้อมกลิ่นซิตรัสสดชื่น ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
     "id": 3,
-    "name": "น้ำหอมฉีดตัว Sweet เล็ก",
+    "name": "Hair Care Shampoo – Milky Peach (เล็ก)",
     "mood": "sweet",
-    "type": "spray",
+    "type": "shampoo",
     "size": "30ml",
     "price": 79,
-    "image": "images/sweet.jpg",
-    "description": "กลิ่นหวานละมุน อบอุ่นนุ่มนวล ขนาดพกพาสะดวก"
+    "image": "images/milky-peach.jpg",
+    "description": "แชมพูกลิ่นพีชละมุนที่ช่วยบำรุงเส้นผมให้นุ่มลื่น ไม่ชี้ฟู ขนาดพกพาสะดวก"
   },
   {
     "id": 4,
-    "name": "น้ำหอมฉีดตัว Sweet ใหญ่",
+    "name": "Hair Care Shampoo – Milky Peach (ใหญ่)",
     "mood": "sweet",
-    "type": "spray",
+    "type": "shampoo",
     "size": "100ml",
     "price": 189,
-    "image": "images/sweet.jpg",
-    "description": "กลิ่นหวานละมุน อบอุ่นนุ่มนวล ขนาดคุ้มค่าสำหรับใช้ประจำ"
+    "image": "images/milky-peach.jpg",
+    "description": "แชมพูกลิ่นพีชละมุนที่ช่วยบำรุงเส้นผมให้นุ่มลื่น ไม่ชี้ฟู ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
     "id": 5,
-    "name": "น้ำหอมฉีดตัว Confident เล็ก",
+    "name": "Hair Care Shampoo – Blue Cedar (เล็ก)",
     "mood": "confident",
-    "type": "spray",
+    "type": "shampoo",
     "size": "30ml",
     "price": 79,
-    "image": "images/confident.jpg",
-    "description": "กลิ่นมั่นใจ โดดเด่นแต่ไม่เกินพอดี ขนาดพกพาสะดวก"
+    "image": "images/blue-cedar.jpg",
+    "description": "แชมพูกลิ่นไม้ซีดาร์ผ่อนคลายที่ช่วยฟื้นบำรุงให้เส้นผมแข็งแรง ขนาดพกพาสะดวก"
   },
   {
     "id": 6,
-    "name": "น้ำหอมฉีดตัว Confident ใหญ่",
+    "name": "Hair Care Shampoo – Blue Cedar (ใหญ่)",
     "mood": "confident",
-    "type": "spray",
+    "type": "shampoo",
     "size": "100ml",
     "price": 189,
-    "image": "images/confident.jpg",
-    "description": "กลิ่นมั่นใจ โดดเด่นแต่ไม่เกินพอดี ขนาดคุ้มค่าสำหรับใช้ประจำ"
+    "image": "images/blue-cedar.jpg",
+    "description": "แชมพูกลิ่นไม้ซีดาร์ผ่อนคลายที่ช่วยฟื้นบำรุงให้เส้นผมแข็งแรง ขนาดคุ้มค่าสำหรับใช้ประจำ"
   },
   {
     "id": 7,
-    "name": "น้ำหอมฉีดตัว Romance เล็ก",
+    "name": "Hair Care Shampoo – Rose Velvet (เล็ก)",
     "mood": "romance",
-    "type": "spray",
+    "type": "shampoo",
     "size": "30ml",
     "price": 79,
-    "image": "images/romance.jpg",
-    "description": "กลิ่นโรแมนติก นุ่มนวลน่าหลงใหล ขนาดพกพาสะดวก"
+    "image": "images/rose-velvet.jpg",
+    "description": "แชมพูกลิ่นกุหลาบสุดหรูที่ช่วยเติมความชุ่มชื้นและฟื้นฟูผมแห้งเสีย ขนาดพกพาสะดวก"
   },
   {
     "id": 8,
-    "name": "น้ำหอมฉีดตัว Romance ใหญ่",
+    "name": "Hair Care Shampoo – Rose Velvet (ใหญ่)",
     "mood": "romance",
-    "type": "spray",
+    "type": "shampoo",
     "size": "100ml",
     "price": 189,
-    "image": "images/romance.jpg",
-    "description": "กลิ่นโรแมนติก นุ่มนวลน่าหลงใหล ขนาดคุ้มค่าสำหรับใช้ประจำ"
+    "image": "images/rose-velvet.jpg",
+    "description": "แชมพูกลิ่นกุหลาบสุดหรูที่ช่วยเติมความชุ่มชื้นและฟื้นฟูผมแห้งเสีย ขนาดคุ้มค่าสำหรับใช้ประจำ"
   }
 ]
